@@ -1,3 +1,4 @@
-data/raw/*.xlsx
+data/raw/
+data/processed/
 venv/
 .venv/
