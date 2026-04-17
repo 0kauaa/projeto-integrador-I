@@ -226,15 +226,15 @@ Após a execução do pipeline ETL, os seguintes arquivos são gerados em `data/
 
 | Arquivo             | Origem     | Descrição                                               |
 | ------------------- | ---------- | --------------------------------------------------------- |
-| `df.csv`          | Notebook 3 | Dados após filtragem (apenas Art. 213 e 217-A em Santos) |
 | `df_merged.csv`   | Notebook 2 | Consolidação dos dados semestrais por ano               |
 | `df_cleaned.csv`  | Notebook 4 | Dados após limpeza completa e padronização             |
+| `df.csv`          | Notebook 3 | Dados após tratamento                                  |
 | `delta_table.csv` | Notebook 5 | Tabela de frequência de intervalos de dias               |
 | `freq_table.xlsx` | Notebook 5 | Tabela de frequência estatística geral                  |
 | `week_table.xlsx` | Notebook 5 | Tabela de frequência dos primeiros 7 dias                |
 | `data_dict.xlsx`  | Manual     | Dicionário com descrição de todas as colunas           |
 
- **Nota** : O arquivo `df_cleaned.csv` é o dataset final utilizado para geração de gráficos.
+ **Nota** : O arquivo `df.csv` é o dataset final utilizado para geração de gráficos.
 
 ### Transformações Aplicadas
 
