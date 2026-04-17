@@ -154,13 +154,13 @@ O projeto utiliza notebooks Jupyter organizados sequencialmente para o processam
    * Remove colunas irrelevantes
    * Filtra apenas casos de Art. 213 e Art. 217-A
    * Filtra apenas registros de Santos
-   * Gera `df.csv`
+   * Gera `df_cleaned.csv`
 4. **`4_tratamento.ipynb`** — Tratamento e padronização de dados
    * Trata valores ausentes em campos temporais
    * Padroniza nomenclaturas de bairros conforme Plano Diretor
    * Converte campos textuais para formato padrão
    * Cria campos derivados (período do dia, dia da semana, etc.)
-   * Gera `df_cleaned.csv`
+   * Gera `df.csv`
 5. **`5_delta_freq.ipynb`** — Cálculo de intervalos e tabelas de frequência
    * Calcula intervalo de dias entre ocorrência e notificação
    * Gera tabelas de frequência para análise estatística
