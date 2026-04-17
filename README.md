@@ -328,6 +328,16 @@ Este estudo indica a necessidade urgente de:
 
 ---
 
+<<<<<<< HEAD
+=======
+## Autores
+
+**Felipe Alves Gonçalves** — Discente, Ciência de Dados, FATEC Baixada Santista "Rubens Lara"
+**Kauã Santana da Silva** — Discente, Ciência de Dados, FATEC Baixada Santista "Rubens Lara"
+
+---
+
+>>>>>>> parent of ea30f88 (Update README.md)
 ## Contato e Suporte
 
 Para dúvidas sobre o projeto, entre em contato com os autores através de:
