@@ -318,14 +318,6 @@ Este estudo indica a necessidade urgente de:
 
 ---
 
-
-## Autores
-
-**Felipe Alves Gonçalves** — Discente, Ciência de Dados, FATEC Baixada Santista "Rubens Lara"
-**Kauã Santana da Silva** — Discente, Ciência de Dados, FATEC Baixada Santista "Rubens Lara"
-
----
-
 # Autores
 
 **Felipe Alves Gonçalves** — Discente, Ciência de Dados, FATEC Baixada Santista "Rubens Lara"
