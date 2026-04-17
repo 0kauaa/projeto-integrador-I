@@ -115,7 +115,7 @@ O estudo utilizou o processo estruturado de **ETL (Extração, Transformação e
 
 ## Como Executar
 
-O projeto foi montado pensando em possíveis modificações para estudos futuros, portando, caso tenha alguma nova ideia que contribua para extensões do estudo, clone o projeto e modifique-o como quiser.
+O projeto foi montado pensando em possíveis modificações para estudos futuros, portanto, caso tenha alguma nova ideia que contribua para extensões do estudo, clone o projeto e modifique-o como quiser.
 
 **Observação:**  O projeto foi escrito no colab para ter acesso facilitado aos dados no drive e às dependencias externas utilizadas sem a necessidade de baixá-las localmente. No entanto, adicionamos um `requirements.txt` listando todas as biliotecas externas utilizadas para possibilitar a replicabilidade do estudo em máquinas locais. Portanto, se deseja replicar o projeto, retire as células de conexão ao drive e altere os caminhos dos dados (nos imports e exports) antes de executar.
 
@@ -134,7 +134,7 @@ cd projeto-integrador-I
 
 # criar ambiente virtual (opcional, mas recomendado)
 python -m venv venv
-source venv/bin/activate  # No Windows: venv\Scripts\activate
+source venv/bin/activate  # no Windows: venv\Scripts\activate
 
 # instalar dependências
 pip install -r requirements.txt
