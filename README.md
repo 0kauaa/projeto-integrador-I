@@ -1,6 +1,6 @@
 # Projeto Integrador I — ANÁLISE DAS NOTIFICAÇÕES DE ESTUPRO E ESTUPRO DE VULNERÁVEL EM SANTOS: UMA ABORDAGEM DE CIÊNCIA DE DADOS SOBRE A DINÂMICA DOS CASOS DE 2022 A 2025.
 
-Estudo derivado de um projeto acadêmico da disciplina Projeto Integrador I do curso de Ciência de Dados da Fatec Baixada Santista "Rubem Lara". O estudo teve como objetivo analisar a relação entre as ocorrências de estupro (Art. 213 do Código Penal) e estupro de vulnerável (Art. 217-A do Código Penal) e suas notificações nos bairros de Santos - SP, durante o período de 2022 a 2025.
+Estudo derivado de um projeto acadêmico da disciplina Projeto Integrador I do curso de Ciência de Dados da Fatec Baixada Santista "Rubens Lara". O estudo teve como objetivo analisar a relação entre as ocorrências de estupro (Art. 213 do Código Penal) e estupro de vulnerável (Art. 217-A do Código Penal) e suas notificações nos bairros de Santos - SP, durante o período de 2022 a 2025.
 
 ---
 
