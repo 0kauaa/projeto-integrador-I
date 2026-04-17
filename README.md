@@ -186,9 +186,12 @@ jupyter notebook
 ## Dados Utilizados
 
 **Fonte** : [Portal da Transparência - Secretaria de Segurança Pública de São Paulo](https://www.ssp.sp.gov.br/estatistica/consultas)[
-](https://www.ssp.sp.gov.br/estatistica/consultas) \\
-**Período** : 2022 - 2025 \\
-**Registros** : 322 notificações de estupro e estupro de vulnerável em Santos \\
+](https://www.ssp.sp.gov.br/estatistica/consultas)
+
+**Período** : 2022 - 2025
+
+**Registros** : 322 notificações de estupro e estupro de vulnerável em Santos
+
 **Cobertura Geográfica** : Município de Santos, SP (59 bairros, divididos em Macroáreas Continental e Insular)
 
 ### Estrutura dos Dados Brutos
