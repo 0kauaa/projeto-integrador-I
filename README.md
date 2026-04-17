@@ -227,9 +227,9 @@ Após a execução do pipeline ETL, os seguintes arquivos são gerados em `data/
 | Arquivo             | Origem     | Descrição                                               |
 | ------------------- | ---------- | --------------------------------------------------------- |
 | `df_merged.csv`   | Notebook 2 | Consolidação dos dados semestrais por ano               |
-| `df_cleaned.csv`  | Notebook 4 | Dados após limpeza completa e padronização             |
-| `df.csv`          | Notebook 3 | Dados após tratamento                                  |
-| `delta_table.csv` | Notebook 5 | Tabela de frequência de intervalos de dias               |
+| `df_cleaned.csv`  | Notebook 3 | Dados após limpeza completa e padronização             |
+| `df.csv`          | Notebook 4 | Dados após tratamento                                  |
+| `delta_table.csv` | Notebook 4 | Dados preparados para estudo de frequência               |
 | `freq_table.xlsx` | Notebook 5 | Tabela de frequência estatística geral                  |
 | `week_table.xlsx` | Notebook 5 | Tabela de frequência dos primeiros 7 dias                |
 | `data_dict.xlsx`  | Manual     | Dicionário com descrição de todas as colunas           |
@@ -258,11 +258,11 @@ Após a execução do pipeline ETL, os seguintes arquivos são gerados em `data/
 
 #### Notebook 4 - Tratamento
 
-* **Valores ausentes** : Unificação de campos de hora e período
-* **Padronização** : Conversão de texto para maiúsculas
-* **Bairros** : Renomeação conforme Lei Complementar 1.187/2022
-* **Datas** : Tratamento de inconsistências e formatação
-* **Campos derivados** : Criação de período do dia, dia da semana, intervalo de dias
+* **Valores ausentes**: Unificação de campos de hora e período
+* **Padronização**: Conversão de texto para maiúsculas
+* **Bairros**: Renomeação conforme Lei Complementar 1.187/2022
+* **Datas**: Tratamento de inconsistências e formatação
+* **Campos derivados**: Criação de período do dia, dia da semana, intervalo de dias
 
 #### Notebook 5 - Delta e Frequência
 
