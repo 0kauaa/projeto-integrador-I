@@ -4,6 +4,16 @@ Estudo derivado de um projeto acadêmico da disciplina Projeto Integrador I do c
 
 ---
 
+## Autores
+
+**Felipe Alves Gonçalves** — Discente, Ciência de Dados, FATEC Baixada Santista "Rubens Lara"
+
+**Kauã Santana da Silva** — Discente, Ciência de Dados, FATEC Baixada Santista "Rubens Lara"
+
+---
+
+
+
 ## Motivação
 
 A violência sexual, especialmente o estupro, é um problema crítico no Brasil e um direito fundamental violado. Entender suas variações espaciais e temporais é fundamental para a formulação de políticas públicas de prevenção e combate a esses crimes. Este projeto aplica técnicas de Ciência de Dados para visualizar e analisar o índice de vulnerabilidade pública aos crimes de estupro no município de Santos, buscando fornecer subsídios para políticas de segurança mais eficazes e direcionadas.
@@ -224,15 +234,15 @@ Após o processamento ETL, as principais variáveis retidas e criadas (por meio 
 
 Após a execução do pipeline ETL, os seguintes arquivos são gerados em `data/processed/`:
 
-| Arquivo             | Origem     | Descrição                                               |
-| ------------------- | ---------- | --------------------------------------------------------- |
-| `df_merged.csv`   | Notebook 2 | Consolidação dos dados semestrais por ano               |
-| `df_cleaned.csv`  | Notebook 3 | Dados após limpeza completa e padronização             |
-| `df.csv`          | Notebook 4 | Dados após tratamento                                  |
-| `delta_table.csv` | Notebook 4 | Dados preparados para estudo de frequência               |
-| `freq_table.xlsx` | Notebook 5 | Tabela de frequência estatística geral                  |
-| `week_table.xlsx` | Notebook 5 | Tabela de frequência dos primeiros 7 dias                |
-| `data_dict.xlsx`  | Manual     | Dicionário com descrição de todas as colunas           |
+| Arquivo             | Origem     | Descrição                                     |
+| ------------------- | ---------- | ----------------------------------------------- |
+| `df_merged.csv`   | Notebook 2 | Consolidação dos dados semestrais por ano     |
+| `df_cleaned.csv`  | Notebook 3 | Dados após limpeza completa e padronização   |
+| `df.csv`          | Notebook 4 | Dados após tratamento                          |
+| `delta_table.csv` | Notebook 4 | Dados preparados para estudo de frequência     |
+| `freq_table.xlsx` | Notebook 5 | Tabela de frequência estatística geral        |
+| `week_table.xlsx` | Notebook 5 | Tabela de frequência dos primeiros 7 dias      |
+| `data_dict.xlsx`  | Manual     | Dicionário com descrição de todas as colunas |
 
  **Nota** : O arquivo `df.csv` é o dataset final utilizado para geração de gráficos.
 
@@ -315,14 +325,6 @@ Este estudo indica a necessidade urgente de:
 * **PLATT, V. B. et al.** Violência Sexual contra Crianças. Ciência & Saúde Coletiva, v. 23, n. 4, 2018.
 * **SÃO PAULO (Estado).** Lei Complementar nº 1.187 - 3º Plano Diretor de Santos, 2022.
 * **WAISELFISZ, J. J.** Mapa da Violência 2015: Homicídio de Mulheres no Brasil. FLACSO, 2015.
-
----
-
-## Autores
-
-**Felipe Alves Gonçalves** — Discente, Ciência de Dados, FATEC Baixada Santista "Rubens Lara"
-
-**Kauã Santana da Silva** — Discente, Ciência de Dados, FATEC Baixada Santista "Rubens Lara"
 
 ---
 
