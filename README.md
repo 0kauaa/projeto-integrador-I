@@ -276,7 +276,7 @@ Após a execução do pipeline ETL, os seguintes arquivos são gerados em `data/
 
 ## Considerações e Limitações
 
-* **Subnotificação**: Alto índice de casos com hora incerta (81 ocorrências - 25,1%) indica problemas na coleta de dados
+* **Subnotificação**: Alto índice de casos com hora incerta (81 ocorrências - 25,1%) indica possíveis problemas na coleta de dados ou consequência da natureza sensível dos dados
 * **Dados faltantes**: Alguns registros apresentam inconsistências de nomenclatura entre anos
 * **Período limitado**: Apenas 4 anos de dados não são suficientes para estabelecer padrões robustos, apenas tendências
 * **Dados brutos**: A qualidade dos dados originais reflete diretamente na qualidade das análises
