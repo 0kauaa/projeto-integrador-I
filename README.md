@@ -144,13 +144,6 @@ pip install -r requirements.txt
 
 O projeto utiliza notebooks Jupyter organizados sequencialmente para o processamento ETL. Execute nesta ordem:
 
-```bash
-# iniciar Jupyter Notebook
-jupyter notebook
-
-# no navegador, abra e execute os notebooks na sequência:
-```
-
 1. **`1_conversao.ipynb`** — Conversão dos arquivos XLSX originais para CSV
    * Lê dados brutos dos arquivos semestrais e anuais
    * Converte para formato CSV para processamento
