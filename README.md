@@ -4,16 +4,6 @@ Estudo derivado de um projeto acadêmico da disciplina Projeto Integrador I do c
 
 ---
 
-## Autores
-
-**Felipe Alves Gonçalves** — Discente, Ciência de Dados, FATEC Baixada Santista "Rubens Lara"
-
-**Kauã Santana da Silva** — Discente, Ciência de Dados, FATEC Baixada Santista "Rubens Lara"
-
----
-
-
-
 ## Motivação
 
 A violência sexual, especialmente o estupro, é um problema crítico no Brasil e um direito fundamental violado. Entender suas variações espaciais e temporais é fundamental para a formulação de políticas públicas de prevenção e combate a esses crimes. Este projeto aplica técnicas de Ciência de Dados para visualizar e analisar o índice de vulnerabilidade pública aos crimes de estupro no município de Santos, buscando fornecer subsídios para políticas de segurança mais eficazes e direcionadas.
@@ -329,7 +319,8 @@ Este estudo indica a necessidade urgente de:
 ---
 
 <<<<<<< HEAD
-=======
+============
+
 ## Autores
 
 **Felipe Alves Gonçalves** — Discente, Ciência de Dados, FATEC Baixada Santista "Rubens Lara"
@@ -337,7 +328,12 @@ Este estudo indica a necessidade urgente de:
 
 ---
 
->>>>>>> parent of ea30f88 (Update README.md)
+# Autores
+
+**Felipe Alves Gonçalves** — Discente, Ciência de Dados, FATEC Baixada Santista "Rubens Lara"
+
+**Kauã Santana da Silva** — Discente, Ciência de Dados, FATEC Baixada Santista "Rubens Lara"
+
 ## Contato e Suporte
 
 Para dúvidas sobre o projeto, entre em contato com os autores através de:
