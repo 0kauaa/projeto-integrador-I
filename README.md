@@ -318,8 +318,6 @@ Este estudo indica a necessidade urgente de:
 
 ---
 
-<<<<<<< HEAD
-============
 
 ## Autores
 
