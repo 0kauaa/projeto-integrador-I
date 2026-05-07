@@ -1,3 +1,5 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 #"data/processed/.xlsx" -filter -diff -merge text
 *.xlsx filter=lfs diff=lfs merge=lfs -text
+data/processed/*.csv filter=lfs diff=lfs merge=lfs -text
+plots/*.png filter=lfs diff=lfs merge=lfs -text
